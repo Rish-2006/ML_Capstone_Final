@@ -1,4 +1,3 @@
-
 # Machine Learning Capstone Project
 
 **E-Commerce Sales Prediction, Customer Churn Classification, and Wholesale Customer Segmentation**
